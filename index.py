@@ -1,0 +1,1 @@
+print("Hello for index python file")
